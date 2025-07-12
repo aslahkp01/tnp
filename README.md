@@ -64,7 +64,9 @@ Sample Output 1
 
 
 
-#tnp-LVM
+# tnp-LVM
+
+
 You are designing a virtual machine for a new programming language called Lombok. The Lombok Virtual Machine (LVM) runs an assembler-like machine code. It operates on a stack and a single register.
 
 In detail, the instructions work as follows:
